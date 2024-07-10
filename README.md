@@ -20,8 +20,6 @@
   📬 How to reach me: Drop me a message here or connect with me on: 
   <a href="https://www.linkedin.com/in/shreya-berlikar">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
- <a href="https://www.instagram.com/shreyaberlikar">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram"/>
   </a>
 </p>
 
