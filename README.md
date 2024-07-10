@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46517096/126875507-202ea503-bbb2-47ff-9bd5-6d381b2d01f6.png" alt="Unicorn" height="100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 
 <h2 align="center">Hi, I’m Shreyaaa!  (🌈She/Her)</h2>
 <p align="left" >
