@@ -41,5 +41,5 @@
 ![Snake animation](https://github.com/shreyaberlikar/shreyaberlikar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer"/>
 </p>
