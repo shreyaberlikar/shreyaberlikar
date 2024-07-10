@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <h2 align="center">Hi, I’m Shreyaaa!  (🌈She/Her)</h2>
 <p align="left" >
