@@ -1,17 +1,4 @@
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
 
-.fun-fact {
-  display: inline-block;
-  animation: fadeIn 2s ease-in-out;
-  font-family: 'Comic Sans MS', cursive, sans-serif; /* Example font, adjust as needed */
-  font-size: 1.2em;
-  color: #FF6347; /* Example color, adjust as needed */
-}
-</style>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
