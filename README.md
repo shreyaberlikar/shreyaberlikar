@@ -2,21 +2,16 @@
   <img src="https://user-images.githubusercontent.com/46517096/126875507-202ea503-bbb2-47ff-9bd5-6d381b2d01f6.png" alt="Unicorn" height="100"/>
 </p>
 
-<h2 align="center">Hi, I’m Shreyaaa!</h2>
-
-<p align="center">
-  🌈 Pronouns: She/Her
-</p>
-
-<p align="center" >
+<h2 align="center">Hi, I’m Shreyaaa!  (🌈She/Her)</h2>
+<p align="left" >
   🎉 Fun-Fact: Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
 </p>
 
-<p align="center">
+<p align="left">
   🌐 I’m interested in mastering the fundamentals of web design and development.
 </p>
 
-<p align="center">
+<p align="left">
   🤝 I’m looking to collaborate on beginner-friendly projects where I can contribute and learn alongside fellow enthusiasts.
 </p>
 
