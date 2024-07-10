@@ -2,21 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" width="150"/>
-</p>
 
 <h2 align="center">👋 Hi, I’m @shreyaberlikar</h2>
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/interested%20in-Web%20Design%20and%20Development-blue" />
-    <img src="https://img.shields.io/badge/learning-HTML%2C%20CSS%2C%20JavaScript-brightgreen" />
-    <img src="https://img.shields.io/badge/collaborate-Beginner--Friendly%20Projects-yellow" />
-    <img src="https://img.shields.io/badge/contact%20me-LinkedIn-blue" />
-    <img src="https://img.shields.io/badge/pronouns-She%2FHer-orange" />
-    <img src="https://img.shields.io/badge/fun%20fact-Hide%20and%20Seek%20with%20Bugs-red" />
-  </p>
-</div>
+
 
 
 ### 🛠️ Tools and Technologies
