@@ -4,15 +4,15 @@
 </p>
 <h2 align="center">👋 Hi, I’m @shreyaberlikar</h2>
 
-###Fun-Fact
+Fun-Fact
 <p align="center" class="fun-fact">
   Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
 </p>
   
 <p align="left">
-  ###Stay connected on
+  Stay connected on
   <a href="https://www.linkedin.com/in/shreya-berlikar">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 </p>
 
