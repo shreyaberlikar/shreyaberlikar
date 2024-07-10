@@ -18,11 +18,6 @@
   </p>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya-berlikar">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</p>
 
 ### 🛠️ Tools and Technologies
 <p align="left">
@@ -36,9 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreyaberlikar&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaberlikar&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/shreyaberlikar/shreyaberlikar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer"/>
