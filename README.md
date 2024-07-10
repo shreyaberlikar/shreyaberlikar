@@ -3,10 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2 align="center">👋 Hi, I’m @shreyaberlikar</h2>
-
+<p align="left">
+  🌈 Pronouns: She/Her 
+  <img src="https://user-images.githubusercontent.com/46517096/167467748-48232d3d-d2f1-4a0b-b4b4-f0c6f2a0a6c5.gif" height="50" alt="She/Her Animation" />
+</p>
 Fun-Fact
 <p align="center" class="fun-fact">
-  Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
+ Fun-Fact Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
 </p>
   
 <p align="left">
