@@ -7,11 +7,11 @@
 
 <p align="left">
   🌈 Pronouns: She/Her 
-  <img src="https://user-images.githubusercontent.com/46517096/167467748-48232d3d-d2f1-4a0b-b4b4-f0c6f2a0a6c5.gif" height="50" alt="She/Her Animation" />
+ 
 </p>
 
 <p align="center" class="fun-fact">
- 🎉 Fun-Fact: Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
+🎉 Fun-Fact: Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
 </p>
 
 <p>
@@ -23,9 +23,9 @@
 </p>
 
 <p align="left">
- 📬 How to reach me: Drop me a message here or connect with me on 
+ 📬 How to reach me: Drop me a message here or connect with me on: 
   <a href="https://www.linkedin.com/in/shreya-berlikar">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 </p>
 
