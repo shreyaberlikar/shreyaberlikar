@@ -20,6 +20,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaberlikar&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer"/>
-</p>
