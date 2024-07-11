@@ -3,21 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h2 align="center">Hi, I’m Shreyaaa!  (🌈She/Her)</h2>
-<p align="left" >
-  🎉 Fun-Fact: Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
+<h2 align="center">Hello, I’m Shreyaaa!  (🌈She/Her)</h2>
+
+<p align="left">
+   I’m interested in learning the fundamentals of web design and development.I’m looking to collaborate on beginner-friendly projects where I can contribute and learn alongside fellow enthusiasts.  Spent days chasing a pesky bug on my site. It's like playing hide-and-seek with a sneaky sock in a pile of code!
 </p>
 
 <p align="left">
-  🌐 I’m interested in mastering the fundamentals of web design and development.
-</p>
-
-<p align="left">
-  🤝 I’m looking to collaborate on beginner-friendly projects where I can contribute and learn alongside fellow enthusiasts.
-</p>
-
-<p align="left">
-  📬 How to reach me: Drop me a message here or connect with me on: 
+   How to reach me: Drop me a message here or connect with me on: 
   <a href="https://www.linkedin.com/in/shreya-berlikar">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
