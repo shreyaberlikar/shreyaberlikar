@@ -70,6 +70,14 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyaberlikar&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaberlikar&theme=radical" />
+</p>
+
 
 ### 🌱 Quick Facts
 - 🎓 3rd Year Engineering Student  
