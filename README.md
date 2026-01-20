@@ -86,7 +86,8 @@
 - 🌈 Fun personality, professional mindset  
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 
 
