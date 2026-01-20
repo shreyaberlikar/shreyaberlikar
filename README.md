@@ -10,6 +10,7 @@
 <h2 align="center">Hey there, I’m Shreyaaa 🌈 (She/Her)</h2>
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyaberlikar&color=ff69b4&style=flat)
 
+
 <p align="center">
   <b>3rd Year Engineering Student | AI Enthusiast | Aspiring Developer</b>
 </p>
