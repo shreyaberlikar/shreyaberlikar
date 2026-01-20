@@ -8,7 +8,8 @@
 </p>
 
 <h2 align="center">Hey there, I’m Shreyaaa 🌈 (She/Her)</h2>
-![Profile Views](https://komarev.com/ghpvc/?username=shreyaberlikar&color=ff69b4&style=flat)
+👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=shreyaberlikar)
 
 
 <p align="center">
