@@ -86,9 +86,8 @@
 - 🌈 Fun personality, professional mindset  
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreyaberlikar/shreyaberlikar/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
 
 
 <p align="center">
