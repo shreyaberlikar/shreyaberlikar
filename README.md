@@ -80,7 +80,7 @@
 
 
 ### 🌱 Quick Facts
-- 🎓 3rd Year Engineering Student  
+- 🎓 4th Year Engineering Student  
 - 🤖 AI-focused learner  
 - 💻 Web + Java fundamentals  
 - 🌈 Fun personality, professional mindset  
