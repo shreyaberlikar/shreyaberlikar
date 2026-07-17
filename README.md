@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Code%20Create%20Evolve&animation=fadeIn&type=waving&color=gradient&height=150"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shreya+Berlikar;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Building+LLM+%26+RAG+Applications;Exploring+Agentic+AI+%26+MLOps;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">
+Hi, I'm Shreya 🌸
+</h1>
+
+<h3 align="center">
+AI • ML • LLMs • Building cool things with code 💗
+</h3>
 
 <h1 align="center">🌸 Welcome to my GitHub! 🌸</h1>
 
