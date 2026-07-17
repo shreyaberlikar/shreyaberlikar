@@ -1,98 +1,111 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Code%20Create%20Evolve&animation=fadeIn&type=waving&color=gradient&height=120"/>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Java+%7C+Web+Developer;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI;Learning+ML+%26+Deep+Learning;Building+One+Project+at+a+Time" alt="Typing SVG" />
-</p>
-
-<h2 align="center">Hey there, I’m Shreyaaa 🌈 (She/Her)</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyaberlikar&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?text=Code%20Create%20Evolve&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
 <p align="center">
-  <b>4th Year Computer Engineering Student | AI Enthusiast | Aspiring AI Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shreya+Berlikar;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Building+LLM+%26+RAG+Applications;Exploring+Agentic+AI+%26+MLOps;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
-<p align="left">
-I'm a curious learner passionate about building intelligent applications using <b>Artificial Intelligence, Machine Learning, and Web Development</b>. I enjoy turning ideas into real-world projects while constantly exploring new technologies.
-</p>
+<h1 align="center">🌸 Welcome to my GitHub! 🌸</h1>
 
-<p align="left">
-Currently diving into the world of <b>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI</b> 🤖✨. I love experimenting with AI workflows, tool calling, and building projects that solve practical problems while learning something new every day.
-</p>
-
-<p align="left">
-I believe the best way to learn is by <b>building, experimenting, debugging 🐛, and improving</b>—because every bug teaches something new (even if it wins sometimes 😭).
-</p>
-
-<p align="left">
-🎯 <b>Current Goal:</b> Looking for internships and entry-level opportunities in <b>AI, Machine Learning, or Software Development</b>, where I can learn, grow, and contribute to impactful projects.
-</p>
-
-<p align="left">
-📫 <b>Let's Connect:</b>
-
-<a href="https://www.linkedin.com/in/shreya-berlikar">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyaberlikar&label=Profile+Views&color=ff69b4&style=flat-square" />
 </p>
 
 ---
 
-# 🧠 Currently Learning
+# 👩‍💻 About Me
 
-- 🤖 Artificial Intelligence (AI)
-- 📊 Machine Learning (ML)
-- 🧠 Deep Learning (DL)
+🎓 **Final Year Computer Engineering Student**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+
+💡 I enjoy building intelligent applications that solve real-world problems using AI.
+
+🚀 Currently exploring:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
+- MLOps
+
+🌱 I believe the best way to learn is by **building projects, experimenting, debugging, and continuously improving.**
+
+🎯 **Current Goal:** Looking for internships and entry-level opportunities in **AI, Machine Learning, Generative AI, or Software Development.**
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🌾 **AgriAid** | AI Crop Disease Detection using LLMs | Groq, Tavily, Gradio |
+| 🌱 **Croply** | Smart Irrigation Recommendation System | Python, Streamlit, ML |
+| ♻ **EcoScore AI** | Product Sustainability & Carbon Footprint Predictor | Python, ML |
+| 🍽 **HungryOwl** | Smart Restaurant POS System | Java, MySQL, JDBC |
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Deep Learning
 - 💬 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI & AI Workflows
+- ⚡ Agentic AI
 - 🔍 Prompt Engineering
-- 🛠️ Building AI-powered Applications
-- 💡 Problem Solving & DSA
+- ☁️ MLOps
+- 💡 Data Structures & Algorithms
 
 ---
 
-# 🛠️ Languages & Technologies
+# 💻 Tech Stack
 
-<p align="left">
+### 👨‍💻 Programming Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,sql"/>
 </p>
 
 ---
 
-# 🚀 AI & Developer Toolkit
+### 🤖 AI / Machine Learning
 
-- Python
-- Java
-- HTML • CSS • JavaScript
-- Groq API
-- Gradio
-- Streamlit
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+### 🧠 Generative AI
+
+- Large Language Models (LLMs)
+- Prompt Engineering
 - LangChain
-- Tavily Search API
+- Groq API
+- Retrieval-Augmented Generation (RAG)
 - FAISS
 - Sentence Transformers
-- Git & GitHub
+- Tavily Search API
+
+---
+
+### 🌐 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+- Streamlit
+- Gradio
 
 ---
 
@@ -100,55 +113,80 @@ I believe the best way to learn is by <b>building, experimenting, debugging 🐛
 
 ✨ AI Agents
 
-✨ Large Language Models (LLMs)
+✨ Agentic AI
 
-✨ Retrieval-Augmented Generation (RAG)
-
-✨ Prompt Engineering
+✨ LLM Applications
 
 ✨ AI Automation
 
-✨ Real-world AI Applications
+✨ RAG Pipelines
 
----
+✨ MLOps
 
-# 📂 Featured Projects
-
-🌱 **AgriAid** — AI-powered Crop Disease Detection System using Groq LLM, Tavily Search API & Gradio.
-
-🌿 **Croply** — Smart Irrigation Recommendation System using Machine Learning.
-
-♻️ **EcoScore AI** — Predicts product carbon footprint and sustainability score using Machine Learning.
+✨ Real-world AI Products
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaberlikar&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaberlikar&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaberlikar&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaberlikar&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaberlikar&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyaberlikar&theme=radical"/>
 </p>
 
 ---
 
-# 🌸 Quick Facts
+# 🏆 Achievements
 
-- 🎓 4th Year Computer Engineering Student
-- 🤖 AI & ML Enthusiast
-- 🌱 Exploring LLMs, RAG & Agentic AI
-- 💻 Java • Python • Web Development
-- 🚀 Learning by Building
-- ☕ Debugging with Coffee & Curiosity
+- 🌟 Built multiple AI & Machine Learning projects
+- 🌱 AI-powered Agriculture Applications
+- 🤖 Exploring Generative AI & LLMs
+- 📚 Continuously learning emerging AI technologies
+
+---
+
+# 🌸 Fun Facts
+
+- 🌱 I love turning ideas into AI-powered applications.
+- 📖 Learning something new every day.
+- 🐛 Every bug is an opportunity to learn.
+- ☕ Powered by coffee and curiosity.
+- 💖 Open to collaborations on AI & Software projects.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shreya-berlikar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyaberlikar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-✨ <b>Learning never stops — every project is another step toward becoming a better AI Engineer.</b> 🌸🤖
+## ✨ *"Learning never stops. Every project is another step toward becoming a better AI Engineer."* 🤖🌸
 
-⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+⭐ If you like my work, feel free to explore my repositories and connect with me!
 
 </p>
