@@ -10,8 +10,6 @@ Hi, I'm Shreya 🌸
 AI • ML • LLMs • Building cool things with code 💗
 </h3>
 
-<h1 align="center">🌸 Welcome to my GitHub! 🌸</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyaberlikar&label=Profile+Views&color=ff69b4&style=flat-square" />
 </p>
