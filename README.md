@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hi, I'm Shreya 🌸
+Heyy,  Shreya here! 🌸
 </h1>
 
 <h3 align="center">
